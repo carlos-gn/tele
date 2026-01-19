@@ -1,0 +1,10 @@
+.{
+    .name = .video_shell,
+    .version = "0.0.0",
+    .fingerprint = 0xcaf0bb5f8eb64843,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

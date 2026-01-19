@@ -1,0 +1,15 @@
+.zig-cache/
+zig-out/
+
+# Test videos
+*.mp4
+*.mkv
+*.webm
+*.avi
+
+# Temp files
+/tmp/
+*.raw
+
+# macOS
+.DS_Store
