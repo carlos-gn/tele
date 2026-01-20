@@ -1,5 +1,5 @@
 .{
-    .name = .video_shell,
+    .name = .tele,
     .version = "0.0.0",
     .fingerprint = 0xcaf0bb5f8eb64843,
     .paths = .{
